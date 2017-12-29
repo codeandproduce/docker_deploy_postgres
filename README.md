@@ -1,4 +1,4 @@
-#Postgres Database Set-Up Using Docker & db-migrate
+# Postgres Database Set-Up Using Docker & db-migrate
 
 This is a repository that I will refer to later when I need to deploy a postgreSQL database in a remote server.
 
