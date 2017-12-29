@@ -1,0 +1,22 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeandproduce/docker_deploy_postgres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeandproduce/docker_deploy_postgres/issues"
+  },
+  "homepage": "https://github.com/codeandproduce/docker_deploy_postgres#readme",
+  "dependencies": {
+    "db-migrate-pg": "^0.2.5"
+  }
+}
